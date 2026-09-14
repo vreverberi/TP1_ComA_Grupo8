@@ -1,9 +1,8 @@
 ﻿using System;
-
 using System.Collections.Generic;
 using System.Text;
 
-namespace TP_ComA_Grupo8
+namespace TP1_ComA_Grupo8
 {
     internal class Libro
     {
