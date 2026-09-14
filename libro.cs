@@ -24,7 +24,7 @@ namespace TP1_ComA_Grupo8
 
         public override string ToString()
         {
-            return "Titulo: " + titulo + " Autor: " + autor + " Editorial: " + editorial;
+            return "Título: " + titulo + " Autor: " + autor + " Editorial: " + editorial;
         }
     }
 }

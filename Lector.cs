@@ -15,7 +15,6 @@ namespace TP1_ComA_Grupo8
             this.nombre = nombre;
             this.dni = dni;
             this.librosPrestados = new List<Libro>();
-
         }
 
         public int getDni()

@@ -71,6 +71,7 @@ namespace TP1_ComA_Grupo8
 
         public string prestarLibro(string titulo, int dni)
         {
+
             // 1. Validar Lector
             Lector lector = buscarLector(dni);
             if (lector == null) return "LECTOR INEXISTENTE";
