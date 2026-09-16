@@ -94,6 +94,7 @@ namespace TP1_ComA_Grupo8
         {
             Console.WriteLine("\n--- Libros en Estantería ---");
             foreach (var l in libros) Console.WriteLine(l);
+
         }
 
     }
