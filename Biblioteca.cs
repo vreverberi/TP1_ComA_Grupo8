@@ -77,7 +77,7 @@ namespace TP1_ComA_Grupo8
             if (lector == null) return "LECTOR INEXISTENTE";
 
             // 2. Validar Tope
-            if (lector.getLibrosPrestados().Count >= 3) return "TOPE DE PRESTAMO ALCAZADO";
+            if (lector.getLibrosPrestados().Count >= 3) return "TOPE DE PRESTAMO ALCANZADO";
 
             // 3. Validar Libro
             Libro libro = buscarLibro(titulo);
